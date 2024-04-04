@@ -10,5 +10,7 @@
 - 🎸 In my free time, I enjoy videogames
 - 🚀 I aim to create digital services that meaningfully contribute to human progress
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasse331&layout=compact&exclude=c++,cmake)](https://github.com/anuraghazra/github-readme-stats)
+![Hasse's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasse331&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasse331&layout=donut&hide=c++,cmake)](https://github.com/anuraghazra/github-readme-stats)
+
 
